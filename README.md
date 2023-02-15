@@ -35,3 +35,5 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 <img width="1440" alt="home" src="/layout.png">
 
 <img width="1440" alt="home" src="/home.png">
+
+![My Image](/home.png)
